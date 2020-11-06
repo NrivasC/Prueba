@@ -1,8 +1,10 @@
 <?php
 
+	//ESTE ARCHIVO FUE MODIFICADO
 
 	//incluimos a la base de datos
 	//include_once 'conexion.php';
+
 	include_once 'modelo/conexion.php';
 	$i= new conexion;
 	//echo $i->toString();
