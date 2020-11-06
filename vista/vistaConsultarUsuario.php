@@ -1,5 +1,7 @@
 <?php
 
+	//Hola, esto es una prueba. Saluda Git
+
 	//AQUI INICIAMOS SESION 
 	session_start();
 
